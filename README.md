@@ -4,4 +4,4 @@
 
 ###效果图：
 
-
+![效果图](https://github.com/hekangcode/CircleImageViewDemo/blob/master/res/drawable-mdpi/jjjjj.png)
